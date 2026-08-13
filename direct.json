@@ -4,8 +4,8 @@
         {
             "domain"       : ["checkip.synology.com", "checkipv6.synology.com"],
             "domain_suffix": [
-                "api-huacloud.com", "api-huacloud.net", "jita5.cc",         "synology.cn",      "quickconnect.cn",
-                "quickconnect.to",  "i234.me"
+                "api-huacloud.com", "api-huacloud.net", "synology.cn",      "quickconnect.cn",  "quickconnect.to",
+                "i234.me",          "jita5.cc",         "hi-code.cc"
             ]
         }
     ]
