@@ -1,6 +1,14 @@
 {
     "version": 5,
     "rules"  : [
-        { "domain": [], "domain_suffix": ["grafana.com"] }
+        { 
+            "domain": [
+                "console.tailscale.com",
+                "login.tailscale.com"
+            ], 
+            "domain_suffix": [
+                "grafana.com"
+            ]
+        }
     ]
 }
