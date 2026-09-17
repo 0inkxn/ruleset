@@ -3,7 +3,9 @@
     "rules"  : [
         { 
             "domain_suffix": [
-                "hkbus.app"
+                "hkbus.app",
+                "hk",
+                "香港"
             ]
         }
     ]
