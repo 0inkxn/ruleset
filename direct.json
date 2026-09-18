@@ -4,6 +4,7 @@
         {
             "domain"       : ["checkip.synology.com", "checkipv6.synology.com"],
             "domain_suffix": [
+                "guowaiziyuan.com",
                 "api-huacloud.com",     "api-huacloud.net",     "synology.cn",          "quickconnect.cn",      "quickconnect.to",
                 "i234.me",              "insight.synology.com", "jita5.cc",             "hi-code.cc",           "tailscale.com",
                 "tailscale.io",         "ts.net"
